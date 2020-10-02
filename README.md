@@ -12,6 +12,8 @@ Boilerplate code:
     <title></title>
    </head>
    <body>
+     <p> PARAGRAPH </p>
+     <h1> My First Heading </h1>
 
    </body>
 </html>
