@@ -16,3 +16,4 @@ Boilerplate code:
    </body>
 </html>
 ```
+also checkout images from repo
